@@ -1,0 +1,689 @@
+  APRESENTAÇÃO
+
+
+
+
+A        Secretaria de Estado da Saúde, divulga, semanalmente, um
+         Informe Epidemiológico visando não apenas apresentar os
+         números disponíveis sobre a COVID-19 mas também a
+interpretação da situação epidemiológica e reflexão sobre as evidências e
+limitações de cada processo, além de apresentar uma análise mais
+detalhada sobre o perfil da transmissão da COVID-19 no Espírito Santo.
+
+
+A divulgação dos dados epidemiológicos e da estrutura para enfrentamento
+da COVID-19 no Espírito Santo ocorre diariamente por meio do site:
+
+                                       PAINEL COVID-19 - ESTADO DO ESPÍRITO SANTO
+                                       https://coronavirus.es.gov.br/painel-covid-19-es
+
+
+
+
+                          Secretaria Estadual de Saúde
+                      Subsecretaria de Vigilância em Saúde
+                  Centro de Operações de Emergências Covid-19
+                                   NOVO CORONAVÍRUS (COVID-19)
+                                   INFORME EPIDEMIOLÓGICO - SEMANA 47
+                                    Atualização: SEMANAL – 28 de novembro de 2022 Horário: 17 horas
+
+
+                                                         PANORAMA GERAL
+
+
+
+                                                       MUNDO                        BRASIL             ESPÍRITO SANTO
+ CONFIRMADOS                                      637.404.847                     35.149.503                1.239.045
+ RECUPERADOS                                      300.681.830                     34.201.418                1.191.877
+ ÓBITOS                                            6.608.893                       689.442                   14.850
+Fonte: Dados globais e nacionais disponibilizados pela Organização Mundial da Saúde e Ministério da Saúde. Dados locais atualizados
+no dia 28 de novembro de 2022
+
+
+                               CASOS NOTIFICADOS DE COVID-19 E SRAG POR SE, 2022 - ES
+                28.000                                                                                                  80
+                24.000                                                                                                  70
+                20.000                                                                                                  60
+     COVID-19
+
+
+
+
+                                                                                                                        50
+
+
+
+
+                                                                                                                             SRAG
+                16.000
+                                                                                                                        40
+                12.000                                                                                                  30
+                 8.000                                                                                                  20
+                 4.000                                                                                                  10
+                     0                                                                                                  0
+                              37        38        39         40    41      42       43       44   45   46       47
+                                                             SEMANA EPIDEMIOLÓGICA - 2022
+
+                                                                   SRAG         COVID-19
+
+SRAG: Síndrome Respiratória Aguda Grave
+Fonte: eSUS/VS e SIVEP Gripe atualizado em 27 de novembro de 2022
+
+
+                                         ÓBITOS POR COVID-19 E SRAG POR SE, 2022 - ES
+
+                10                                                                                                       6
+                 8                                                                                                       5
+                                                                                                                         4
+                 6
+                                                                                                                         3
+  COVID-19
+
+
+
+
+                 4
+                                                                                                                         2
+                                                                                                                               SRAG
+
+
+
+
+                 2                                                                                                       1
+                 0                                                                                                       0
+                         37        38        39         40        41      42       43      44     45   46        47
+                                                          SEMANA EPIDEMIOLÓGICA - 2022
+
+                                                                   SRAG         COVID-19
+
+SRAG: Síndrome Respiratória Aguda Grave
+Fonte: eSUS/VS e SIVEP Gripe atualizado em 27 de novembro de 2022
+           Os gráficos acima mostram o número de casos notificados e de óbitos por COVID-19 e SRAG nas
+últimas 11 semanas epidemiológicas (SE) no estado do Espírito Santo, evidenciando aumento dos casos
+notificados de COVID-19 a partir da SE 43.
+
+           A Síndrome Respiratória Aguda Grave (SRAG) abrange casos de Síndrome Gripal (SG) que evoluem
+com comprometimento da função respiratória, sendo a SG caracterizada por um quadro respiratório agudo
+e, pelo menos, dois dos seguintes sinais/sintomas: febre (mesmo que referida), calafrios, dor de garganta, dor
+de cabeça, tosse ou coriza. Para ser considerada SRAG, o indivíduo com SG deve apresentar pelo menos um
+dos seguintes sinais/sintomas: dispneia/desconforto respiratório; pressão ou dor persistente no tórax;
+saturação de oxigênio menor que 95% em ar ambiente; coloração azulada (cianose) dos lábios ou rosto.
+
+          CASOS CONFIRMADOS DE SRAG SEGUNDO CLASSIFICAÇÃO FINAL POR SE, 2022 - ES
+
+ 300
+
+ 250
+
+ 200
+
+ 150
+
+ 100
+
+  50
+
+      0
+          1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132333435363738394041424344454647
+
+                             Casos de SRAG por Influenza         Casos de SRAG por outros vírus
+                             Casos de SRAG por outros agentes    Casos de SRAG não especificado
+                             Casos de SRAG por COVID-19          Total de casos de SRAG
+
+Fonte: SIVEP Gripe atualizado em 28 de novembro de 2022
+
+                 ÓBITOS POR SRAG SEGUNDO CLASSIFICAÇÃO FINAL POR SE, 2022 - ES
+
+ 90
+ 80
+ 70
+ 60
+ 50
+ 40
+ 30
+ 20
+ 10
+  0
+          1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132333435363738394041424344454647
+
+                            Óbitos por SRAG por Influenza        Óbitos por SRAG por outros vírus
+                            Óbitos por SRAG por outros agentes   Óbitos por SRAG não especificado
+                            Óbitos por SRAG por COVID-19         Total de óbitos por SRAG
+
+Fonte: SIVEP Gripe atualizado em 28 de novembro de 2022
+                  Conforme os gráficos apresentados acima, nas primeiras 8 semanas epidemiológicas (SE) do ano de
+2022, os pacientes diagnosticados com COVID-19 eram responsáveis pelo alto número de óbitos por SRAG no
+estado do Espírito Santo, voltando a ser a maior causa a partir da SE 22, com nova redução na SE 35. Também
+é possível observar a acentuada queda no número de casos e óbitos a partir de SE 42.
+
+                          CASOS NOTIFICADOS E CONFIRMADOS DE COVID-19 POR SE, 2022 - ES
+                 28.000                                                                                                  9.000
+                                                                                                                         8.000
+                 24.000
+                                                                                                                         7.000
+                 20.000
+                                                                                                                         6.000
+
+
+
+
+                                                                                                                                 Confirmados
+   Notificados
+
+
+
+
+                 16.000                                                                                                  5.000
+
+                 12.000                                                                                                  4.000
+                                                                                                                         3.000
+                  8.000
+                                                                                                                         2.000
+                  4.000
+                                                                                                                         1.000
+                     0                                                                                                   0
+                           37      38       39       40        41       42   43      44       45      46       47
+
+                            Notificados por SE do início dos sintomas        Confirmados por SE do início dos sintomas
+
+Fonte: eSUS/VS atualizado em 27 de novembro de 2022
+
+                  O gráfico acima mostra o número de casos notificados e confirmados de COVID-19 em relação à SE de
+início dos sintomas, evidenciando aumento das notificações na SE 45 e aumento acentuado de casos
+confirmados a partir da SE 43, com aumento de 55,8 vezes no número de casos confirmados ao compararmos
+as SE 37 e 46.
+
+                  Avaliando todos os casos de 2020 até a SE atual de 2022, conforme os gráficos abaixo, é possível
+perceber um maior número de casos confirmados nas primeiras 9 semanas epidemiológicas de 2022,
+possivelmente relacionado ao surgimento das variantes mais contagiosas e redução do isolamento, com o
+número de casos confirmados maior do que no mesmo período de 2021, voltando a apresentar novo pico na
+SE 26, provavelmente relacionado à epidemiologia normal de aumento de casos de doenças respiratórias nos
+meses mais frios, associado aos fatores descritos anteriormente. Voltando a apresentar aumento de casos
+confirmados a partir da SE 43.
+                 CASOS CONFIRMADOS POR SEMANA EPIDEMIOLÓGICA, 2020 A 2022 - ES
+
+ 100.000
+  90.000
+  80.000
+  70.000
+  60.000
+  50.000
+  40.000
+  30.000
+  20.000
+  10.000
+       0
+             1    3   5   7   9   11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53
+
+                                                 2020   2021     2022
+
+Fonte: eSUS/VS atualizado em 27 de novembro de 2022
+
+
+                          ÓBITOS POR SEMANA EPIDEMIOLÓGICA, 2020 A 2022 - ES
+
+ 550
+ 500
+ 450
+ 400
+ 350
+ 300
+ 250
+ 200
+ 150
+ 100
+  50
+   0
+       1     3    5   7   9   11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53
+
+                                                 2020   2021     2022
+
+Fonte: eSUS/VS atualizado em 27 de novembro de 2022
+
+           Ao compararmos o número de óbitos (gráfico acima) em relação à quantidade de casos confirmados
+em 2022, é possível perceber nítida redução dos valores quando comparado ao quantitativo de positivos em
+2020 e 2021 e o número de óbitos no mesmo período.
+                   TAXA DE LETALIDADE POR SEMANA EPIDEMIOLÓGICA, 2020 A 2022 - ES
+
+ 6%
+
+ 5%
+
+ 4%
+
+ 3%
+
+ 2%
+
+ 1%
+
+ 0%
+         1     3    5      7   9   11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53
+
+                                                            2020       2021         2022
+
+Fonte: eSUS/VS atualizado em 27 de novembro de 2022
+
+             Comparando a taxa de letalidade (número de óbitos dividido pelo número de casos confirmados) ao
+longo de 2020 a 2022, fica evidente a alta letalidade nos anos de 2020 e, principalmente, 2021, chegando a
+uma taxa de letalidade de 5,1% na SE 15 de 2021. Avaliando o ano de 2022, a taxa de letalidade apresentou
+elevação a partir da SE 5, com posterior queda a partir da SE 17 e novo aumento a partir da SE 29, chegando
+a 4,1% na SE 36.
+
+                                    COBERTURA VACINAL COVID-19, 2020 A 2022 - ES
+                               103,57%
+                                                 96,80%
+ 100%                                                              91,67%
+             89,79%
+
+  80%
+                                                                                   63,35%
+  60%
+
+
+  40%
+
+                                                                                                  16,88%
+  20%
+
+                                                                                                                  0,17%
+    0%
+                   Geral       60 ou mais anos     18 a 59 anos     12 a 17 anos    5 a 11 anos     3 a 4 anos   6 meses a 2 anos
+
+                                                 D1 ou DU     D2     1º Reforço¹    2º Reforço²
+
+¹ 1º reforço disponível somente para maiores de 12 anos
+² 2º reforço disponível somente para maiores de 18 anos
+Fonte: Vacina e Confia atualizado em 28 de novembro de 2022
+
+             O gráfico acima mostra as taxas de cobertura vacinal (CV) contra COVID-19 de 2020 a 2022 por público
+alvo, evidenciando a redução progressiva das coberturas da D2, do 1º reforço e do 2º reforço em todos os
+grupos elegíveis.
+         Comparando a incidência (por 100.000 habitantes) de SRAG por COVID-19 e por outras causas (gráfico
+abaixo), fica evidente a redução do número de casos de SRAG por COVID-19 em comparação a SRAG por
+outras causas no ano de 2022, quando comparado aos anos de 2020 e 2021, quando os casos de SRAG por
+COVID-19 predominaram em comparação às outras causas, evidenciando a queda dos casos graves de COVID-
+19 com a vacinação em massa. No entanto, não se pode comparar os valores absolutos do ano de 2022 com
+os anos de 2020 e 2021, devido ao período diferente de contabilização dos casos.
+
+          INCIDÊNCIA DE SRAG POR COVID-19 E POR OUTRAS CAUSAS¹, 2020 A 2022 - ES
+
+ 200
+
+
+ 150
+
+
+ 100
+
+
+  50
+
+
+    0
+                        2020                                   2021                                  2022
+
+                    Incidência SRAG - COVID-19/100.000 habitantes         Incidência SRAG¹/100.000 habitantes
+
+¹ SRAG por outras causas que não COVID-19, excetuando casos sem classificação
+Fonte: eSUS/VS atualizado em 28 de novembro de 2022
+
+       Ao compararmos a taxa de letalidade (gráfico abaixo), houve pequena queda entre os anos de 2020 e
+2021 nos casos de SRAG por COVID-19 (de 50,74% para 45,44%), com sutil aumento da taxa nos óbitos por
+SRAG de outras causas (de 18,16% para 18,88%). Já comparando as taxas de letalidade de SRAG no ano de
+2022, houve diminuição da proporção de óbitos de SRAG por COVID-19 em relação à SRAG por outras causas.
+
+
+        TAXA DE LETALIDADE DE SRAG POR COVID-19 E POR OUTRAS CAUSAS¹, 2020 A 2022
+                                                             - ES
+ 50%
+
+ 40%
+
+ 30%
+
+ 20%
+
+ 10%
+
+  0%
+                         2020                                  2021                                  2022
+
+                                Taxa de letalidade SRAG - COVID-19       Taxa de letalidade SRAG¹
+
+¹ SRAG por outras causas que não COVID-19, excetuando casos sem classificação
+Fonte: eSUS/VS atualizado em 28 de novembro de 2022
+                       CASOS CONFIRMADOS E ÓBITOS POR SEXO, 2020 a 2022 - ES
+                       0%     10%       20%       30%       40%        50%       60%       70%       80%       90%     100%
+
+
+
+
+   Casos Confirmados
+
+
+
+
+ Óbitos por COVID-19
+
+
+
+
+                                                   Feminino       Masculino
+
+Fonte: eSUS/VS atualizado em 27 de novembro de 2022
+
+       Avaliando a divisão por sexo, é possível observar a presença de um maior número de casos
+confirmados no sexo feminino (55,85%), porém com maior frequência de óbitos no sexo masculino (54,65%).
+
+               CASOS CONFIRMADOS E ÓBITOS POR FAIXA ETÁRIA, 2020 A 2022 - ES
+
+ 300.000                                                                                                                4.000
+
+                                                                                                                        3.500
+ 250.000
+                                                                                                                        3.000
+ 200.000
+                                                                                                                        2.500
+
+ 150.000                                                                                                                2.000
+
+                                                                                                                        1.500
+ 100.000
+                                                                                                                        1.000
+  50.000
+                                                                                                                        500
+
+       0                                                                                                                0
+             0a4       5a9    10 a 19   20 a 29   30 a 39    40 a 49   50 a 59   60 a 69   70 a 79   80 a 89    90 +
+
+                                         Casos confirmados             Óbitos por COVID-19
+
+Fonte: eSUS/VS atualizado em 27 de novembro de 2022
+
+        A estratificação por faixa etária apresentada no gráfico acima retrata o predomínio de casos
+confirmados de COVID-19 em populações em idade economicamente ativa, de 20 a 59 anos de idade,
+correspondendo a 72,8% dos diagnósticos. Em relação ao número de óbitos, é possível inferir que está
+presente principalmente na população a partir de 60 anos de idade equivalendo a 73,86% das mortes por
+COVID-19.
+            FATORES DE RISCO EM CASOS CONFIRMADOS E ÓBITOS, 2020 A 2022 - ES
+
+  120.000                                                                                                25%
+  105.000
+                                                                                                         20%
+   90.000
+   75.000                                                                                                15%
+   60.000
+   45.000                                                                                                10%
+
+   30.000
+                                                                                                         5%
+   15.000
+        0                                                                                                0%
+
+
+
+Fonte: eSUS/VS atualizado em 11 de julho de 2022
+
+
+
+
+                                  Nº de casos confirmados em pessoas com o fator de risco
+                                  Óbitos por COVID-19 em pessoas com o fator de risco presente (%)
+
+¹ Incluindo hipertensão arterial sistêmica
+² Incluindo doenças neuromusculares
+³ Incluindo tumor sólido ou hematológico
+Fonte: eSUS/VS atualizado em 27 de novembro de 2022
+
+         Em relação à divisão dos principais fatores de risco apresentada no gráfico acima, é possível observar
+uma maior frequência de casos confirmados em pacientes portadores de doença cardiovascular,
+correspondendo a 52,59% dos casos em pessoas portadoras de fatores de risco, seguido de diabetes (18,78%),
+doença pulmonar crônica (8,79%) e obesidade (7,64%).
+
+         Analisando a porcentagem de óbito nos casos confirmados que possuem algum dos fatores de risco,
+há maior número de fatalidades nos portadores de neoplasias (23,53%), doença renal crônica (20,65%),
+doença neurológica crônica (18,36%) e diabetes mellitus (9,5%).
+
+         Avaliando os principais sintomas evidenciados no gráfico abaixo, é possível perceber que nos casos
+confirmados, os sintomas predominantes foram tosse (51,2%), cefaleia (44,69%), coriza (37,51%) e febre
+(36,64%).
+
+         Nas pessoas que foram a óbito, os principais sintomas foram tosse (59,47%), seguida de dificuldade
+respiratória (52,93%), febre (50,36%) e adinamia (32,09%).
+         PRINCIPAIS SINTOMAS EM CASOS CONFIRMADOS E ÓBITOS, 2020 a 2022 - ES
+
+                                0%       5%   10%     15%     20%       25%   30%   35%     40%       45%   50%   55%   60%   65%
+
+                       Febre
+
+ Dificuldade respiratória
+
+                       Tosse
+
+        Congestão nasal
+
+                       Coriza
+
+        Dor de garganta
+
+                   Diarreia
+
+                   Cefaleia
+
+                  Adinamia
+
+            Perda de olfato
+
+       Perda de paladar
+
+
+                                                              Confirmados      Óbitos
+
+Fonte: eSUS/VS atualizado em 27 de novembro de 2022
+
+
+                                    TESTES REALIZADOS E POSITIVOS POR SE, 2022 - ES
+
+ 220.000                                                                                                                      60%
+ 200.000                                                                                                                      55%
+ 180.000                                                                                                                      50%
+
+ 160.000                                                                                                                      45%
+                                                                                                                              40%
+ 140.000
+                                                                                                                              35%
+ 120.000
+                                                                                                                              30%
+ 100.000
+                                                                                                                              25%
+  80.000
+                                                                                                                              20%
+  60.000                                                                                                                      15%
+  40.000                                                                                                                      10%
+  20.000                                                                                                                      5%
+        0                                                                                                                     0%
+              1    3      5     7    9    11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47
+
+                                                    Testes realizados         % de testes positivos
+
+Fonte: eSUS/VS atualizado em 27 de novembro de 2022
+
+         O gráfico acima mostra o quantitativo de testes realizados e a porcentagem dos exames positivos por
+SE no ano de 2022, evidenciando expressivo aumento na positividade desde a SE 44, aumentando de 4,86%
+na SE 43 para 12,27% na SE 44, 30,85% na SE 46 e 33,78% na SE 47.
+                                                        TESTES DISPONÍVEIS E REALIZADOS, 2022 - ES
+
+                                       TESTES                           REALIZADOS (2022)                        POSITIVOS (2022)
+RT-PCR                                                                       262.678                                 30,41%
+TESTE RÁPIDO                                                                1.692.464                                30,02%
+Fonte: Dados locais atualizados em 27 de novembro de 2022
+
+       No acumulado entre os anos de 2020 e 2022 foram realizadas mais de 4,423 milhões de notificações,
+e mais de 4,379 milhões de testes, dessa forma 99,01% dos notificados foram testados para SARS-CoV-2
+(COVID-19).
+
+
+                                                TESTAGENS REALIZADAS EM BARREIRAS SANITÁRIAS - ES
+
+                                1600       1450                                                                                 35%
+                                                                                               32%
+                                1400                                                                                            30%
+   Total de Testes realizados
+
+
+
+
+                                                                                                                        29%
+                                1200              26%                                                            1033           25%
+
+
+
+
+                                                                                                                                      Positvidade (%)
+                                1000
+                                                                          19%                                                   20%
+                                800
+                                                                                                                                15%
+                                600                                                     483
+                                                  374             380                                                           10%
+                                400                                                                                     296
+                                                                                              156                               5%
+                                200                                       74
+                                  0                                                                                             0%
+                                          AEROPORTO             RODOVIÁRIA                  UFES               T.LARANJEIRAS
+
+                                                        TOTAL REALIZADO         POSITIVOS           POSITIVIDADE (%)
+
+Fonte: Dados atualizados em 28 de novembro de 2022.
+
+
+
+
+                                 Na Semana Epidemiológica 47, nas barreiras sanitárias instaladas no Aeroporto, Rodoviária, UFES e
+Terminal de Laranjeiras foram realizados 3346 testes de antígeno, com 27% de positividade no total dos testes
+realizados. No aeroporto com 1450 testes realizados e 26% de positividade, seguido pela UFES com 483 testes
+realizados e 32% de postividade. No Terminal Laranjeiras foram realizados 1033 testes com 29 % de
+positividade. Dentre os 4 locais, na UFES é onde se observa a maior taxa de positividade, 32% entre os
+testados. O maior volume de testagem ocorreu no Aeroporto que funciona 24h e 7 dias por semana.
+                                         SAÚDE DO TRABALHADOR
+
+1.         DADOS GERAIS
+
+Até o dia 28 de novembro de 2022 foram registrados 1.237.193 casos confirmados de COVID-19 no ES. O
+Quadro 1 apresenta dados de infecção, cura, óbitos e casos de COVID-19 relacionados ao trabalho entre a
+população em geral e trabalhadores.
+
+
+ Quadro 1 – Dados de casos confirmados, curados, óbitos e relação com o trabalho entre trabalhadores e
+                                       na população em geral.
+
+                                       População Geral            Trabalhadores em geral         Profissionais da saúde
+          CONFIRMADOS                      1.237.193                        448.981                        55.885
+             CURADOS               1.190.190           96         435.903             97          54.532            98
+               ÓBITOS                14.847              1          2.589              1              120            0
+         RELAÇÃO COM O
+                                     37.528              3          31.557             7            23.478           42
+             TRABALHO
+     Nota: Foram considerados “Trabalhadores em Geral” todos os casos confirmados que tiveram o campo “Ocupação” preenchido,
+      excetuando-se “Donas de Casa”, “Estudante” e “Aposentado”, que não estão inseridos diretamente no mercado de trabalho.
+Fonte: ESUS-VS/SESA (Dados extraídos em 28 de novembro de 2022).
+
+
+
+
+Os municípios que apresentaram o maior número de casos confirmados em trabalhadores são: Vila Velha
+(12,5%), Serra (11,5%), Vitória (10,3%), Cariacica (7,2%), Colatina (5,0%) e Linhares (4,5%). Podemos observar
+que a região metropolitana concentra aproximadamente 41,4% dos casos de trabalhadores infectados.
+
+Com relação ao sexo, 53,1% são do sexo feminino. Observa-se que as faixas etárias mais acometidas são: 30
+a 39 anos (29,4%), seguido de 40 a 49 anos (24,7%) e 20 a 29 anos (20,6%), representando a parcela
+economicamente ativa dos trabalhadores.
+
+A distribuição de ocupações que mais apresentam casos confirmados para COVID-19 está descrita conforme
+o Gráfico 1.
+
+Importante salientar que as notificações com o campo Ocupação “Ignorado” representam 45,9% do total de
+casos confirmados. Destacam-se entre trabalhadores mais acometidos pela COVID-19 os autônomos e os
+trabalhadores volantes da agricultura.
+                             Gráfico 1 – Ocupações mais acometidas pela COVID-19
+
+
+
+
+Fonte: ESUS-VS/SESA (Dados extraídos em 28 de novembro de 2022).
+
+
+
+
+2.      TRABALHADORES DA SAÚDE
+
+Dos 1.237.193 casos confirmados de COVID-19 registrados até o dia 28 de novembro de 2022, 55.885 foram
+identificados como profissionais da saúde, ou seja, 4,5% do total de pessoas diagnosticadas no ES. Desses,
+97,6% já foram considerados curados e 120 casos evoluíram a óbito.
+
+Em 42% dos casos confirmados entre profissionais de saúde foi identificada a relação da infecção com o
+trabalho. Com relação ao perfil dos trabalhadores da saúde com infecção relacionada ao trabalho, 78,2% são
+do sexo feminino. Observa-se que as faixas etárias mais acometidas são: 30 a 39 anos (34,9%), seguido de 40
+a 49 anos (26,6%) e 20 a 29 anos (20,6%), representando a parcela economicamente ativa dos trabalhadores.
+
+Os cinco municípios que apresentaram o maior número de casos de profissionais da saúde que tiveram sua
+infecção relacionada ao trabalho, podemos citar: Vila Velha (16,8%), Vitória (14,2%), Serra (14,2%), Cariacica
+(9,3%) e Colatina (4,7%). Podemos observar que a região metropolitana concentra 54,5% dos casos de
+trabalhadores da saúde com infecção relacionada ao trabalho.
+
+O gráfico 2 mostra a evolução percentual de representação dos profissionais de saúde em relação ao total de
+casos confirmados para a COVID-19 desde o início da pandemia.
+ Gráfico 2 – Percentual de profissionais de saúde com COVID-19 em relação à população de confirmados
+
+
+
+
+Fonte: ESUS-VS/SESA (Dados extraídos em 28 de novembro de 2022).
+
+
+
+
+Em relação às ocupações, o Gráfico 3 apresenta as dez categorias profissionais com o maior número de
+infectados no estado. A equipe de enfermagem, composta por enfermeiros, técnicos e/ou auxiliares de
+enfermagem representa a maior fatia dos trabalhadores da saúde acometidos pela COVID-19 (32,9%).
+
+Gráfico 3 – Nº absoluto de trabalhadores da saúde infectados distribuídos conforme ocupação (10 maiores)
+
+
+
+
+Fonte: ESUS-VS/SESA (Dados extraídos em 28 de novembro de 2022).
+Em relação à gravidade da doença nos trabalhadores da saúde, até o dia 28 de novembro de 2022, foi possível
+identificar que dentre os profissionais infectados, 700 necessitaram de internação hospitalar (1,3%) e 233
+estiveram internados em Unidades de Terapia Intensiva (0,4%).
+
+Os óbitos de profissionais em relação às ocupações podem ser analisados conforme Gráfico 4.
+
+
+
+      Gráfico 4 – Nº de óbitos de trabalhadores da saúde infectados distribuídos conforme ocupação
+
+
+
+
+Fonte: ESUS-VS/SESA (Dados extraídos em 28 de novembro de 2022).
+                                          CONSIDERAÇÕES
+        Com o objetivo de orientar a rede assistencial pública e privada, nos diferentes níveis de atenção, bem
+como dar transparência à população dos processos que estão sendo desenvolvidos no Estado do Espírito
+Santo tem-se elaborado diversos tipos de matérias instrutivos pela equipe da Secretaria Estadual de Saúde
+(SESA). As legislações podem ser acessadas em https://coronavirus.es.gov.br/legislacao
+
+         As Notas Técnicas são elaboradas por profissionais especializados com a finalidade de orientar os
+diversos serviços e seguimentos específicos de forma adequada. Atualmente a Nota Técnica que orienta
+sobre a definição de Casos Operacionais e Critérios de Coleta é a de número 05/2022, a Nota Técnica que
+define as recomendações de Isolamento, Rastreamento, Monitoramento de casos e Afastamento Laboral é
+a de número 12/2022. É possível acessar a todas as Notas Técnicas elaboradas para a temática do Coronavírus
+no site da secretaria, através do link: https://saude.es.gov.br/coronavirus_notas_tecnicas
+
+       Para auxiliar o processo de trabalho dos serviços de saúde e tornar mais fácil a compreensão dos
+materiais acima citados, a SESA tem elaborado fluxogramas tais como: Fluxograma de testagem para a covid-
+19 para atenção básica, atenção especializada e urgências e emergências; Fluxograma para atendimento
+Covid-19 em unidades de pronto atendimento. Esses materiais gráficos também estão disponíveis no site da
+SESA pelo do link: https://saude.es.gov.br/coronavirus_fluxogramas
+
