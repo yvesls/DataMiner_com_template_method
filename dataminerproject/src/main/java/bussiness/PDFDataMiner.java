@@ -8,7 +8,7 @@ import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
 
 public class PDFDataMiner extends DataMiner{
-		
+	
 	@Override
 	public File openFile(String path) throws FileNotFoundException {
 		File file = new File(path);

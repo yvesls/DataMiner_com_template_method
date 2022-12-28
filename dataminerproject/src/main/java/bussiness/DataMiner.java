@@ -10,13 +10,13 @@ public abstract class DataMiner {
 	/**
 	 * Template method
 	 */
-	public void mine(String path) {
+	public void mine(String path, String search) {
 		File file;
 		try {
 			file = openFile(path);
 			String data = extractData(file);
-			ArrayList<Object> busca = parseData(data);
-			sendReport(busca);
+			int localization = parseData(data, search);
+			sendReport(localization);
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -40,16 +40,16 @@ public abstract class DataMiner {
 	 * Retorna um array contendo a sentença e a localização 
 	 */
 
-	public ArrayList<Object> parseData(String data) {
-		ArrayList<Object> busca = new ArrayList<Object>();
-		busca.add("SEMANA EPIDEMIOLÓGICA - 2022");
-		busca.add(data.indexOf(String.valueOf(busca.get(0))));
-		return busca;
+	public int parseData(String data, String search) {
+		return data.indexOf(search);
 	}
-
-	public void sendReport(ArrayList<Object> busca) {
-		if(!busca.get(1).equals(-1)) {
-			System.out.println(busca.get(1));
+	
+	/**
+	 * Exibe o resultado na forma de print
+	 */
+	public void sendReport(int Localization) {
+		if(Localization != -1) {
+			System.out.println("Localização dentro do texto: " + Localization);
 		}else {
 			System.out.println("Dado não encontrado.");
 		}

@@ -9,7 +9,7 @@ public class client {
 	public static void main(String[] args) {
 		
 		DataMiner txt = new PDFDataMiner();
-		txt.mine ("C:\\Users\\yvesl\\Downloads\\Boletim COVID-19 SE 47 2022.pdf");
+		txt.mine ("C:\\Users\\yvesl\\Downloads\\Boletim COVID-19 SE 47 2022.pdf", "Casos de SRAG por Influenza");
 		
 		// INSIRA SUA URL ABSOLUTA
 		//DataMiner txt = new TXTDataMiner();
